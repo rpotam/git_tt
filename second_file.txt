@@ -1,1 +1,3 @@
 this is second file added to my proj
+this is second line
+that is third line
