@@ -3,4 +3,4 @@ This is my first file into added to my project
 this is another line aftre commit
 this is from second  - Release
 this is from new Release
-this is addition for merge test
+this is delete for merge test
