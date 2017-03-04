@@ -2,3 +2,5 @@ this si the another file
 This is my first file into added to my project
 this is another line aftre commit
 this is from second  - feature
+this is from new feature
+this is addition for merge test
